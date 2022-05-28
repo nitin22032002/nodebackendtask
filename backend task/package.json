@@ -1,0 +1,15 @@
+{
+  "name": "backend-task",
+  "version": "1.0.0",
+  "description": "it is backend task",
+  "main": "imdb_chart_fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitin Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11"
+  }
+}
